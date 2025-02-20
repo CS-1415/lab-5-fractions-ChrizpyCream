@@ -1,0 +1,5 @@
+C:\Users\xxlaz\cs1410\lab-5-fractions-ChrizpyCream\obj\Debug\net8.0\lab-5-fractions-ChrizpyCream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxlaz\cs1410\lab-5-fractions-ChrizpyCream\obj\Debug\net8.0\lab-5-fractions-ChrizpyCream.AssemblyInfoInputs.cache
+C:\Users\xxlaz\cs1410\lab-5-fractions-ChrizpyCream\obj\Debug\net8.0\lab-5-fractions-ChrizpyCream.AssemblyInfo.cs
+C:\Users\xxlaz\cs1410\lab-5-fractions-ChrizpyCream\obj\Debug\net8.0\lab-5-fractions-ChrizpyCream.csproj.CoreCompileInputs.cache
+C:\Users\xxlaz\cs1410\lab-5-fractions-ChrizpyCream\obj\Debug\net8.0\lab-5-fractions-ChrizpyCream.sourcelink.json
